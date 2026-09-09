@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, my name is Tanushk Nirmal<br>🎓 Final-year B.Tech CSE undergraduate, building from New Delhi 🇮🇳<br>💻 Currently learning Advanced React, TypeScript, Unreal Engine, and scalable backend design<br>🚀 Trying to be better
+👋 Hi, my name is Tanushk Nirmal<br>🎓 B.Tech CSE Graduate, building from New Delhi 🇮🇳<br>💻 Currently learning Unreal Engine, Computer graphics aspects of Physics & Rendering<br>🚀 Trying to be better
 
 
 ## 🌐 Socials:
